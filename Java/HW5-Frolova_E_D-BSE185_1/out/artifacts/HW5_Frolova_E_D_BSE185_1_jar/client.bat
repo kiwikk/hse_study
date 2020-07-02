@@ -1,0 +1,1 @@
+java --module-path "C:\Program Files\Java\javafx-sdk-15\lib" --add-modules javafx.controls,javafx.fxml -jar HW5-Frolova_E_D-BSE185_1.jar client

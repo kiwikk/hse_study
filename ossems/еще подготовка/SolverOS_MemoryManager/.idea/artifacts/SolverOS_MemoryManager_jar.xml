@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SolverOS_MemoryManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SolverOS_MemoryManager_jar</output-path>
+    <root id="archive" name="SolverOS_MemoryManager.jar">
+      <element id="module-output" name="SolverOS_MemoryManager" />
+    </root>
+  </artifact>
+</component>

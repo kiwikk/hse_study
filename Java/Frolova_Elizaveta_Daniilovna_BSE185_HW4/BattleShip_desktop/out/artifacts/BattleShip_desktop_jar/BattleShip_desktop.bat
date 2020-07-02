@@ -1,0 +1,1 @@
+java --module-path "C:\Program Files\Java\javafx-sdk-15\lib"  --add-modules javafx.controls,javafx.fxml -jar BattleShip_desktop.jar

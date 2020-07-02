@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BattleShip_desktop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BattleShip_desktop_jar</output-path>
+    <root id="archive" name="BattleShip_desktop.jar">
+      <element id="module-output" name="BattleShip_desktop" />
+    </root>
+  </artifact>
+</component>
